@@ -10,7 +10,6 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 ### Places to connect with me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
-- **aclownsquad#2615** on Discord
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>

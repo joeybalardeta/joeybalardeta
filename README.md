@@ -4,8 +4,8 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 
 ## Some info about me
 - I love building computers, I've built 8 so far!
-- The first programming language I learned was Python
-- I'm currently learning C++
+- The first programming language I learned was Python.
+- I'm currently learning C++.
 
 ### Places to connect with me
 - [Instagram][instagram]

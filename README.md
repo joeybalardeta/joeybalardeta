@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
 
-<!--
-**joeybalardeta/joeybalardeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joey, I'm a college student based in California. I'm majoring in Computer Engineering but also learning Computer Science on the side.
 
-Here are some ideas to get you started:
+## Some info about me
+- I love building computers, I've built 8 so far!
+- The first programming language I learned was Python
+- I'm currently learning C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Places to connect with me
+- [Instagram][instagram]
+- [LinkedIn][linkedin]
+- **aclownsquad#2615** on Discord
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+</p>
+
+[instagram]: https://www.instagram.com/joeybalardeta/
+[linkedin]: https://www.linkedin.com/in/joseph-balardeta-78a501187/

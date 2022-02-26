@@ -2,18 +2,18 @@
 
 I'm Joey, a college student based in California. I'm majoring in Computer Engineering and love programming in my free time.
 
-### Some Info About Me
+### Some info about me
 - I love building computers, I've built 8 so far!
 - The first programming language I learned was Python.
 - I'm currently learning C/C++.
 
 
-### Programming Languages I Have Experience With
+### Programming languages I have experience with
 - C/C++ - 1 year of experience: pointers, linked lists, dynamic memory allocation, makefiles, classes, inheritance
 - Java - 1 year of experience: AP Computer Science A, Spigot programming
 - Python - 2 years of experience: Tuples, JSON, APIs, classes, inheritance
 
-### Places to Connect With Me
+### Places to connect with me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 

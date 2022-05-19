@@ -16,6 +16,7 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 ### Places to connect with me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
+- [Fiverr][fiverr]
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
@@ -23,3 +24,4 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 
 [instagram]: https://www.instagram.com/joeybalardeta/
 [linkedin]: https://www.linkedin.com/in/joseph-balardeta-78a501187/
+[fiverr]: https://www.fiverr.com/jgbalardeta

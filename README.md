@@ -9,7 +9,7 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 
 
 ### Programming languages I have experience with
-- C/C++ - 1 year of experience: pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance
+- C/C++ - 1 year of experience: pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets
 - Java - 1 year of experience: AP Computer Science A, Spigot programming
 - Python - 2 years of experience: Tuples, JSON, APIs, classes, inheritance
 

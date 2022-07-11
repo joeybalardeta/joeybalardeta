@@ -9,9 +9,9 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 
 
 ### Programming languages I have experience with
-- C/C++ - 1 year of experience: pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets
-- Java - 1 year of experience: AP Computer Science A, Spigot programming
-- Python - 2 years of experience: tuples, JSON, APIs, classes, inheritance, sockets, serial
+- C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets
+- Java - AP Computer Science, Minecraft Spigot plugin programming, classes, inheritance, event buses
+- Python - tuples, JSON, APIs, classes, inheritance, sockets, serial
 
 ### Places to connect with me
 - [Instagram][instagram]
@@ -24,4 +24,3 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 
 [instagram]: https://www.instagram.com/joeybalardeta/
 [linkedin]: https://www.linkedin.com/in/joseph-balardeta-78a501187/
-[fiverr]: https://www.fiverr.com/jgbalardeta

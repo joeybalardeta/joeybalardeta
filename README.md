@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
 
-I'm Joey, a college student based in California. I'm majoring in Computer Engineering and love programming in my free time.
+I'm Joey, a college student in California. I'm majoring in Computer Engineering and love programming in my free time.
 
 ### Some info about me
 - I love building computers, I've built 8 so far!
@@ -11,15 +11,18 @@ I'm Joey, a college student based in California. I'm majoring in Computer Engine
 ### Programming languages I have experience with
 - C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets
 - Java - AP Computer Science, Minecraft Spigot plugin programming, classes, inheritance, event buses
-- Python - tuples, JSON, APIs, classes, inheritance, sockets, serial
+- Python - tuples, JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.)
 
 ### Places to connect with me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
-- [Fiverr][fiverr]
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Account Stats"/>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeybalardeta&layout=compact&theme=dark" alt="Github Language Stats"/>
 </p>
 
 [instagram]: https://www.instagram.com/joeybalardeta/

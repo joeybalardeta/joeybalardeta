@@ -18,7 +18,7 @@ I'm Joey, a college student in California. I'm majoring in Computer Engineering 
 - [LinkedIn][linkedin]
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark&count_private=true" alt="Github Account Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&show_icons=true&theme=dark" alt="Github Account Stats"/>
 </p>
 
 <p align="center">

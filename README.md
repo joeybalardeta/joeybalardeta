@@ -11,7 +11,7 @@ I'm Joey, a college student in California. I'm majoring in Computer Engineering 
 ### Programming languages I have experience with
 - C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets
 - Java - AP Computer Science, Minecraft Spigot plugin programming, classes, inheritance, event buses
-- Python - tuples, JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.)
+- Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing
 
 ### Places to connect with me
 - [Instagram][instagram]

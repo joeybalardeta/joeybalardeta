@@ -17,13 +17,13 @@ I'm Joey, a college student in California. I'm majoring in Computer Engineering 
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&count_private=true&hide_rank=true&show_icons=true&theme=github_dark" alt="Github Account Stats"/>
-</p>
+<span>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&count_private=true&hide_rank=true&show_icons=true&theme=github_dark" alt="Github Account Stats"/>
+</span>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeybalardeta&layout=compact&theme=github_dark" alt="Github Language Stats"/>
-</p>
+<span>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeybalardeta&layout=compact&theme=github_dark" alt="Github Language Stats"/>
+</span>
 
 [instagram]: https://www.instagram.com/joeybalardeta/
 [linkedin]: https://www.linkedin.com/in/joseph-balardeta-78a501187/

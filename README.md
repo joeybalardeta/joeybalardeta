@@ -5,7 +5,7 @@ I'm Joey, a college student in California. I'm majoring in Computer Engineering 
 ### Some info about me
 - I love building computers, I've built 8 so far!
 - The first programming language I learned was Python.
-- I'm currently learning C/C++.
+- I'm currently learning advanced C/C++.
 
 
 ### Programming languages I have experience with

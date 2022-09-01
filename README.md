@@ -23,6 +23,9 @@ I'm Joey, a college student in California at the University of California, Irvin
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 
+
+### Stats
+
 <span>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&count_private=true&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats&hide=issues" alt="Github Account Stats"/>
 </span>

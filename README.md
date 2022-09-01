@@ -5,7 +5,7 @@ I'm Joey, a college student in California at the University of California, Irvin
 ### Some info about me
 - I love building computers, I've built 8 so far!
 - The first programming language I learned was Python.
-- I'm currently learning advanced C/C++.
+- I enjoy running, surfing, and playing guitar in my free time.
 
 ### Places I've worked
 - Cisco Systems | Technical Undergraduate Intern | June 2022 - September 2022
@@ -24,7 +24,7 @@ I'm Joey, a college student in California at the University of California, Irvin
 - [LinkedIn][linkedin]
 
 
-### Stats
+### My stats
 
 <span>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&count_private=true&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats&hide=issues" alt="Github Account Stats"/>

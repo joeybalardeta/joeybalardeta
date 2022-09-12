@@ -18,7 +18,7 @@ I'm Joey, a college student in California at the University of California, Irvin
 - C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets, GUIs, process memory manipulation (hacking)
 - Java - AP Computer Science, Minecraft Spigot plugin programming, inheritance, event buses/handling
 - Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing
-- Assembly(x86) - general knowledge of the instruction set (used for game hacking), routines
+- Assembly (x86) - general knowledge of the instruction set (used for game hacking), routines
 
 ### Places to connect with me
 - [Instagram][instagram]

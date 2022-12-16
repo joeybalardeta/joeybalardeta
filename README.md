@@ -20,6 +20,11 @@ I'm Joey, a college student in California at the University of California, Irvin
 - Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing
 - Assembly (x86) - general knowledge of the instruction set (used for game hacking)
 
+### Currently Learning/Learning in the Future
+- SQL
+- OpenGL
+- Vulkan Engine
+
 ### Places to connect with me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]

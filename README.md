@@ -2,12 +2,12 @@
 
 I'm Joey, a college student in California at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork.
 
-### Some info about me
+### Some Info About Me
 - I love building computers, I've built 8 so far!
 - The first programming language I learned was Python.
 - I enjoy running, surfing, and playing guitar in my free time.
 
-### Places I've worked
+### Places I've Worked
 - Cisco Systems | Technical Undergraduate Intern | June 2022 - September 2022
 
 ### Hardware Experience
@@ -25,12 +25,12 @@ I'm Joey, a college student in California at the University of California, Irvin
 - OpenGL
 - Vulkan Engine
 
-### Places to connect with me
+### Places to Connect with Me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 
 
-### My stats
+### Programming Stats
 
 <span>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeybalardeta&count_private=true&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats&hide=issues" alt="Github Account Stats"/>

@@ -8,7 +8,9 @@ I'm Joey, a college student in California at the University of California, Irvin
 - I enjoy running, surfing, and playing guitar in my free time.
 
 ### Places I've Worked
-- Cisco Systems | Technical Undergraduate Intern | June 2022 - September 2022
+- Cisco Systems
+  - Technical Undergraduate Intern | June 2022 - September 2022
+  - Hardware Engineer Intern | June 2023 - September 2023
 
 ### Hardware Experience
 - Embedded systems (Arduino, ST Microcontrollers)

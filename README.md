@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
 
-I'm Joey, California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork.
+I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork.
 
 ### Some Info About Me
 - I love building computers, I've built 8 so far!

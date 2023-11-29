@@ -9,7 +9,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 
 ### Places I've Worked
 - Cisco Systems
-  - Technical Undergraduate Intern | June 2022 - September 2022
+  - Hardware Engineer Intern | June 2022 - September 2022
   - Hardware Engineer Intern | June 2023 - Current
 
 ### Hardware Experience

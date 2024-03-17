@@ -3,7 +3,7 @@
 I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork.
 
 ### Some Info About Me
-- I love building computers, I've built 8 so far!
+- I love building computers, I've built 9 so far!
 - The first programming language I learned was Python.
 - I enjoy running, surfing, and playing guitar in my free time.
 
@@ -13,18 +13,29 @@ I'm Joey, a Southern California resident and student at the University of Califo
   - Hardware Engineer Intern | June 2023 - Current
 
 ### Hardware Experience
-- Embedded systems (Arduino, ST Microcontrollers)
-- I2C/Serial Communication Protocols
+- Processor Architecture
+- Embedded programming
+  - TI Microcontrollers
+  - ST Microcontrollers
+  - ESP32 Microcontrollers
+  - Arduino
+- General knowledge of PCB design
 
 ### Programming Experience
 - C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets, GUIs, process memory manipulation (game hacking)
 - Java - inheritance, event buses/handling, Minecraft Spigot plugin programming
-- Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing
-- Assembly (x86) - general knowledge of the instruction set (used for game hacking)
+- Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.)
+- Assembly (x86) - general knowledge of the instruction set (learned from game hacking)
+- Assembly (RISC-V) - general knowledge of instruction set (learned in class)
+- Assembly (MIPS32) - general knowledge of instruction set (learned in class)
 
 ### Currently Learning/Learning in the Future
 - OpenGL
-- Machine Learning
+- Machine Learning (not sure on specifics)
+
+### Potential Future Projects
+- Third iteration of a chess engine (frostbyte II)
+- 16-bit processor design (Verilog/SystemVerilog)
 
 ### Places to Connect with Me
 - [Instagram][instagram]

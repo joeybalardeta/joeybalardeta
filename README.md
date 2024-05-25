@@ -22,7 +22,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 - General knowledge of PCB design
 
 ### Programming Experience
-- C/C++ - pointers, linked lists, dynamic memory allocation, makefiles, structs, classes, inheritance, sockets, GUIs, process memory manipulation (game hacking)
+- C/C++ - linked lists, dynamic memory, makefiles, structs, classes, inheritance, sockets, GUIs, process memory manipulation (game hacking), embedded firmware development
 - Java - inheritance, event buses/handling, Minecraft Spigot plugin programming
 - Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.)
 - Assembly (x86) - general knowledge of the instruction set (learned from game hacking)

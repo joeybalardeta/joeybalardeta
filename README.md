@@ -29,12 +29,10 @@ I'm Joey, a Southern California resident and student at the University of Califo
 - Assembly (RISC-V) - general knowledge of instruction set (learned in class, EECS 112)
 - Assembly (MIPS32) - general knowledge of instruction set (learned in class, EECS 112L)
 
-### Currently Learning/Learning in the Future
-- OpenGL
-- Machine Learning (not sure on specifics)
+### Currently Working On
+- striker (my third chess engine in C)
 
 ### Potential Future Projects
-- Third iteration of a chess engine (frostbyte II)
 - 16-bit processor design (Verilog/SystemVerilog)
 
 ### Places to Connect with Me

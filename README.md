@@ -14,7 +14,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 
 ### Hardware Experience
 - Processor Architecture
-  - Scalar Pipelined Architectures (RISC-V, MIPS32)
+  - Scalar, 5-stage pipeline RISC-V and MIPS32 designs (EECS 112/112L)
 - Embedded programming
   - TI Microcontrollers (MSP430)
   - ST Microcontrollers (STM32L431)

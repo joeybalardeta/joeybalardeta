@@ -10,18 +10,19 @@ I'm Joey, a Southern California resident and student at the University of Califo
 ### Places I've Worked
 - Cisco Systems
   - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
-  - Hardware Engineer Intern | June 2023 - Current (14 months)
+  - Hardware Engineer Intern | June 2023 - Current (16 months)
 
 ### Hardware Experience
 - Processor Architecture
+  - Scalar Pipelined Architectures (RISC-V, MIPS32)
 - Embedded programming
-  - TI Microcontrollers
-  - ST Microcontrollers
-  - ESP32 Microcontrollers
-  - Arduino
+  - TI Microcontrollers (MSP430)
+  - ST Microcontrollers (STM32L431)
+  - ESP32 Microcontrollers (ESP32-S3, ESP32-C3)
+  - Arduino (UNO R4, Nano 33 BLE)
 - General knowledge of PCB design
 
-### Programming Experience
+### Software Experience
 - C/C++ - dynamic memory, makefiles, structs/classes, sockets, GUIs, processes, process memory manipulation (game hacking), threads, embedded firmware development, I2C/SPI
 - Java - inheritance, event buses/handling, Spigot plugins
 - Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), threads

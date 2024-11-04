@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
 
-I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork.
+I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork. I'm also interested in chip design, and planning to pursue a PhD in the area of Integrated Circuits or Computer Architecture.
 
 ### Some Info About Me
 - I love building computers, I've built 9 so far!
@@ -10,12 +10,12 @@ I'm Joey, a Southern California resident and student at the University of Califo
 ### Places I've Worked
 - Cisco Systems
   - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
-  - Hardware Engineer Intern | June 2023 - Current (16 months)
+  - Hardware Engineer Intern | June 2023 - Current (18 months)
 
 ### Hardware Experience
 - Processor Architecture
   - Scalar, 5-stage pipeline RISC-V and MIPS32 designs (EECS 112/112L)
-  - Vector Processor, RISC-V ISA (UCI Research)
+  - Vector Processor, implements RISC-V ISA (Research at UC Irvine)
 - Embedded programming
   - TI Microcontrollers (MSP430)
   - ST Microcontrollers (STM32L431)

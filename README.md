@@ -34,9 +34,6 @@ I'm Joey, a Southern California resident and student at the University of Califo
 ### Currently Working On
 - striker (my third chess engine in C)
 
-### Potential Future Projects
-- 16-bit processor design (Verilog/SystemVerilog)
-
 ### Places to Connect with Me
 - [Instagram][instagram]
 - [LinkedIn][linkedin]

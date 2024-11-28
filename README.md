@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
 
-I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork. I'm also interested in chip design, and planning to pursue a PhD in the area of Integrated Circuits or Computer Architecture.
+I'm Joey, a Southern California resident and student at the University of California, Irvine. I'm majoring in Computer Engineering and love programming outside of schoolwork. I'm also interested in chip design, and planning to pursue a PhD in Electrical or Computer Engineering (specifically in Integrated Circuits, Computer Architecture, or Design Automation).
 
 ### Some Info About Me
 - I love building computers, I've built 9 so far!

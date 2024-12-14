@@ -10,7 +10,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 ### Places I've Worked
 - Cisco Systems
   - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
-  - Hardware Engineer Intern | June 2023 - Current (18 months)
+  - Hardware Engineer Intern | June 2023 - Current (19 months)
 
 ### Hardware Experience
 - Processor Architecture
@@ -21,6 +21,8 @@ I'm Joey, a Southern California resident and student at the University of Califo
   - ST Microcontrollers (STM32L431)
   - ESP32 Microcontrollers (ESP32-S3, ESP32-C3)
   - Arduino (UNO R4, Nano 33 BLE)
+- VLSI Layout
+  - Cadence, advanced CMOS circuits
 - General knowledge of PCB design
 
 ### Software Experience

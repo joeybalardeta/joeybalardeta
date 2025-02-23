@@ -24,7 +24,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 - VLSI Layout
   - Cadence, advanced CMOS circuits
 - RTL Design
-  - Xilinx Vivado (for classwork and vector processor)
+  - Xilinx Vivado
 
 ### Software Experience
 - C/C++ - dynamic memory, makefiles, structs/classes, sockets, GUIs, processes, process memory manipulation (game hacking), threads, embedded firmware development, I2C/SPI

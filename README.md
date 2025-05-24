@@ -27,15 +27,12 @@ I'm Joey, a Southern California resident and student at the University of Califo
   - Xilinx Vivado
 
 ### Software Experience
-- C/C++ - dynamic memory, makefiles, structs/classes, sockets, GUIs, processes, process memory manipulation (game hacking), threads, embedded firmware development, I2C/SPI
-- Java - inheritance, event buses/handling, Spigot plugins
-- Python - JSON, APIs, classes, inheritance, sockets, serial, regex, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), multi-threading, machine learning
+- C/C++ - makefiles, sockets, GUIs, process memory manipulation (game hacking), threaded applications, embedded firmware development
+- Python - sockets, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), multi-threaded applications, machine learning
+- Java - event buses/handling, GUIS, Spigot plugins
 - Assembly (x86) - general knowledge of instruction set (learned from game hacking)
 - Assembly (RISC-V) - general knowledge of instruction set (EECS 112)
-- Assembly (MIPS32) - general knowledge of instruction set (EECS 112L)
-
-### Currently Working On
-- striker (my third chess engine in C)
+- Assembly (MIPS32) - general knowledge of instruction set (EECS 112L
 
 ### Places to Connect with Me
 - [Instagram][instagram]

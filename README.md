@@ -29,7 +29,7 @@ I'm Joey, a Southern California resident and student at the University of Califo
 ### Software Experience
 - C/C++ - makefiles, sockets, GUIs, process memory manipulation (game hacking), threaded applications, embedded firmware development
 - Python - sockets, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), multi-threaded applications, machine learning
-- Java - event buses/handling, GUIS, Spigot plugins
+- Java - event buses/handling, GUIs, Spigot plugins
 - Assembly (x86) - general knowledge of instruction set (learned from game hacking)
 - Assembly (RISC-V) - general knowledge of instruction set (EECS 112)
 - Assembly (MIPS32) - general knowledge of instruction set (EECS 112L

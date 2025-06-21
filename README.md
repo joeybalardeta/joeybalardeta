@@ -4,7 +4,7 @@ I'm Joey, a Southern California resident and recent graduate from the University
 
 ### Some Info About Me
 - I love building computers, I've built 9 so far!
-- The first programming language I learned was Python. (but C is my favorite!)
+- The first programming language I learned was Python (but C is my favorite!).
 - I enjoy running, surfing, and playing guitar in my free time.
 
 ### Places I've Worked

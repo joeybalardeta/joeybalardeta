@@ -9,8 +9,8 @@ I'm Joey, a Southern California resident and recent graduate from the University
 
 ### Places I've Worked
 - Cisco Systems
-  - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
   - Hardware Engineer Intern | June 2023 - Current (2 years)
+  - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
 
 ### Hardware Experience
 - Processor Architecture
@@ -30,6 +30,7 @@ I'm Joey, a Southern California resident and recent graduate from the University
 - C/C++ - makefiles, sockets, GUIs, process memory manipulation (game hacking), threaded applications, embedded firmware development
 - Python - sockets, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), multi-threaded applications, machine learning
 - Java - event buses/handling, GUIs, Spigot plugins
+- C# - general knowledge from porting projects
 - Assembly (x86) - general knowledge of instruction set (learned from game hacking)
 - Assembly (RISC-V) - general knowledge of instruction set (EECS 112)
 - Assembly (MIPS32) - general knowledge of instruction set (EECS 112L

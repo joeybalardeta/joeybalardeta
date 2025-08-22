@@ -27,10 +27,10 @@ I'm Joey, a Southern California resident and recent graduate from the University
   - Xilinx Vivado
 
 ### Software Experience
-- C/C++ - makefiles, sockets, GUIs, threaded applications, embedded firmware
-- Python - sockets, GUIs, data analysis, machine learning, digital signal processing (fft, signal filters, etc.), multi-threaded applications
+- C/C++ - makefiles, sockets, GUIs, threaded applications, embedded firmware for products
+- Python - sockets, GUIs, data analysis, machine learning, digital signal processing (fft, signal filters, etc.), multi-threaded applications, production-level software packages
 - Java - event buses, GUIs
-- C# - production software design
+- C# - production-level software packages
 - Assembly (x86) - inline assembly, binary reverse engineering
 - Assembly (RISC-V) - processor design, ISA implementation, inline assembly
 - Assembly (MIPS32) - processor design

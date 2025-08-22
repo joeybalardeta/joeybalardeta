@@ -17,23 +17,23 @@ I'm Joey, a Southern California resident and recent graduate from the University
   - Scalar, 5-stage pipeline RISC-V and MIPS32 designs (EECS 112/112L)
   - Vector processor, implements RISC-V ISA (Research at UC Irvine)
 - Embedded programming
-  - TI Microcontrollers (MSP430)
-  - ST Microcontrollers (STM32L431)
-  - ESP32 Microcontrollers (ESP32-S3, ESP32-C3)
-  - Arduino (UNO R4, Nano 33 BLE)
+  - TI Microcontrollers - chipset control (MSP430)
+  - ST Microcontrollers - product firmware (STM32L family)
+  - ESP32 Microcontrollers - embedded workshops (ESP32-S3 and ESP32-C3)
+  - Arduino - lab automation (UNO and Nano platforms)
 - VLSI Layout
   - Cadence, advanced CMOS circuits
 - RTL Design
   - Xilinx Vivado
 
 ### Software Experience
-- C/C++ - makefiles, sockets, GUIs, process memory manipulation (game hacking), threaded applications, embedded firmware development
-- Python - sockets, data analysis (with matplotlib, etc.), digital signal processing (fft, signal filters, etc.), multi-threaded applications, machine learning
-- Java - event buses/handling, GUIs, Spigot plugins
-- C# - general knowledge from porting projects
-- Assembly (x86) - general knowledge of instruction set (learned from game hacking)
-- Assembly (RISC-V) - general knowledge of instruction set (EECS 112)
-- Assembly (MIPS32) - general knowledge of instruction set (EECS 112L
+- C/C++ - makefiles, sockets, GUIs, threaded applications, embedded firmware
+- Python - sockets, GUIs, data analysis, machine learning, digital signal processing (fft, signal filters, etc.), multi-threaded applications
+- Java - event buses, GUIs
+- C# - production software design
+- Assembly (x86) - inline assembly, binary reverse engineering
+- Assembly (RISC-V) - processor design, ISA implementation, inline assembly
+- Assembly (MIPS32) - processor design
 
 ### Places to Connect with Me
 - [Instagram][instagram]

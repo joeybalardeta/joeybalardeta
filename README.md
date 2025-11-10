@@ -9,8 +9,8 @@ I'm Joey, a Southern California resident and recent graduate from the University
 
 ### Places I've Worked
 - Cisco Systems
-  - Hardware Engineer | June 2023 - Current (2 years)
-  - Hardware Engineer Intern | June 2022 - September 2022 (3 months)
+  - Hardware Engineer | June 2024 - Current (1.5 years)
+  - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1.25 years)
 
 ### Hardware Experience
 - Processor Architecture

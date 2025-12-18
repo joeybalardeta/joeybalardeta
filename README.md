@@ -14,8 +14,8 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
 
 ### Hardware Experience
 - Processor Architecture
-  - Scalar, 5-stage pipeline RISC-V and MIPS32 designs (EECS 112/112L)
-  - Vector processor, implements RISC-V ISA (Research at UC Irvine)
+  - Scalar, pipelined RISC-V and MIPS32 designs
+  - Vector processor, RISC-V ISA
 - Embedded programming
   - TI Microcontrollers - chipset control
   - ST Microcontrollers - product firmware
@@ -32,7 +32,7 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
 - Java - event buses, GUIs
 - C# - production-level software packages
 - Assembly (x86) - inline assembly, binary reverse engineering
-- Assembly (RISC-V & MIPS32) - processor design, ISA implementation, inline assembly
+- Assembly (RISC-V/MIPS32) - processor design, ISA implementation, inline assembly
 
 ### Places to Connect with Me
 - [Instagram][instagram]

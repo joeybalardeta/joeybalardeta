@@ -1,4 +1,4 @@
-<h1 style="margin: auto; text-align: center;"> What's up! 👋 </h1>
+<h1 style="margin: auto; text-align: center;"> Hello! </h1>
 
 I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning and I love doing small projects outside of my regular work.
 
@@ -13,25 +13,27 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
   - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1.25 years)
 
 ### Hardware Experience
-- Processor Architecture
-  - Scalar, pipelined RISC-V and MIPS32 designs
-  - Vector processor, RISC-V ISA
+- Silicon Photonics
+  - Co-Packaged Optics (CPO)
+  - Mixed Signal ICs
 - Embedded programming
-  - TI Microcontrollers - chipset control
-  - ST Microcontrollers - product firmware
-  - ESP32 Microcontrollers - embedded workshops
-  - Arduino - lab automation
+  - TI MCUs - chipset firmware
+  - ST MCUs - product-level firmware
+  - Arduino/ESP32 MCUs - low-cost lab tools
 - VLSI Layout
-  - Cadence, advanced CMOS circuits
+  - Cadence - advanced CMOS circuits
 - RTL Design
   - Xilinx Vivado
+- Processor Architecture
+  - Scalar, pipelined RISC-V and MIPS32 microarchitectures
+  - Vector accelerator, RISC-V compliant
 
 ### Software Experience
-- C/C++ - sockets, GUIs, threaded applications, embedded firmware
-- Python - sockets, GUIs, data analysis, machine learning, digital signal processing, multi-threaded applications, production-level software packages
-- Java - event buses, GUIs
+- C/C++ - GUIs, threaded applications, embedded firmware
+- Python - GUIs, data analysis, machine learning, digital signal processing, multi-threaded applications, production-level software packages
+- Java - GUIs, server-side software modules
 - C# - production-level software packages
-- Assembly (x86) - inline assembly, binary reverse engineering
+- Assembly (x86) - inline assembly, binary reverse engineering, memory manipulation
 - Assembly (RISC-V/MIPS32) - processor design, ISA implementation, inline assembly
 
 ### Places to Connect with Me

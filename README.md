@@ -7,12 +7,12 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
 - The first programming language I learned was Python (but C is my favorite!).
 - I enjoy running, surfing, and playing guitar in my free time.
 
-### Places I've Worked
+### Where I've Been
 - Cisco Systems
   - Hardware Engineer | June 2024 - Current (1.75 years)
   - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1.25 years)
 
-### Hardware Experience
+### Hardware
 - Silicon Photonics
   - Co-Packaged Optics (CPO)
   - Mixed Signal ICs
@@ -28,7 +28,7 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
   - Scalar, pipelined RISC-V and MIPS32 microarchitectures
   - Vector accelerator, RISC-V compliant
 
-### Software Experience
+### Software
 - C/C++ - GUIs, threaded applications, embedded firmware
 - Python - GUIs, data analysis, machine learning, digital signal processing, multi-threaded applications, production-level software packages
 - Java - GUIs, server-side software modules

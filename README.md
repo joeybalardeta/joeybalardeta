@@ -9,8 +9,8 @@ I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning
 
 ### Where I've Been
 - Cisco Systems
-  - Hardware Engineer | June 2024 - Current (1.75 years)
-  - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1.25 years)
+  - Hardware Engineer | June 2024 - March 2026 (1 year, 10 months)
+  - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1 year, 3 months)
 
 ### Hardware
 - Silicon Photonics

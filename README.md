@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> Hello! </h1>
 
-I'm Joey, a Southern California resident and UC Irvine Alum. I'm always learning and I love doing small projects outside of my regular work.
+I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love doing small projects outside of my regular work.
 
 ### Some Info About Me
 - I love building computers, I've built nine so far!

@@ -9,7 +9,7 @@ I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love
 
 ### Where I've Been
 - Ayar Labs
-  - System Hardware Engineer | March 2026 - Present (2 months)
+  - System Hardware Engineer | March 2026 - Present (3 months)
 - Cisco Systems
   - Hardware Engineer | June 2024 - March 2026 (1 year, 10 months)
   - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1 year, 3 months)
@@ -18,17 +18,19 @@ I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love
 - Silicon Photonics
   - Co-Packaged Optics (CPO)
   - Mixed Signal ICs
-- Embedded programming
-  - TI MCUs - chipset firmware
-  - ST MCUs - product-level firmware
-  - Arduino/ESP32 MCUs - low-cost lab tools
 - VLSI Layout
   - Cadence - advanced CMOS circuits
 - RTL Design
-  - Xilinx Vivado
+  - Verilog/SystemVerilog - hardware controllers, design verification
+- Silicon Bring-Up
+  - DVT/Production - high-speed optical transcievers
 - Processor Architecture
   - Scalar, pipelined RISC-V and MIPS32 microarchitectures
-  - Vector accelerator, RISC-V compliant
+  - Vector accelerator, RISC-V ISA compliant
+- Bare-Metal Programming
+  - TI MCUs - chipset firmware
+  - ST MCUs - product-level and chipset firmware
+  - Arduino/ESP32 MCUs - low-cost lab tools
 
 ### Software
 - C/C++ - GUIs, threaded applications, embedded firmware

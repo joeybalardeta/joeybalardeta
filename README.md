@@ -9,7 +9,7 @@ I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love
 
 ### Where I've Been
 - Ayar Labs
-  - System Hardware Engineer | March 2026 - Present (3 months)
+  - System Hardware Engineer | March 2026 - Present (4 months)
 - Cisco Systems
   - Hardware Engineer | June 2024 - March 2026 (1 year, 10 months)
   - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1 year, 3 months)

@@ -44,9 +44,6 @@ I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 
-<span>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeybalardeta&layout=compact&theme=github_dark" alt="Github Language Stats"/>
-</span>
 
 [instagram]: https://www.instagram.com/joeybalardeta/
 [linkedin]: https://www.linkedin.com/in/joseph-balardeta-78a501187/

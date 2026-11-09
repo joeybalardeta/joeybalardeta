@@ -22,7 +22,7 @@ I'm Joey, Hardware Engineer and UC Irvine slum. I'm always learning and I love d
   - Cadence - design, layout, and optimization of advanced CMOS circuits
   - VerilogA/SystemVerilog - analog and photonic models
 - Digital Design
-  - Verilog/SystemVerilog - hardware controllers, design verification, cycle-accurate firmware testbenches
+  - Verilog/SystemVerilog - hardware controllers, design verification, cycle-accurate firmware co-sim
 - Silicon Bring-Up
   - DVT/Production Line - high-speed optical transceivers and optical engines
 - Bare-Metal Firmware Design

@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> Hello! </h1>
 
-I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love doing small projects outside of my regular work.
+I'm Joey, Hardware Engineer and UC Irvine slum. I'm always learning and I love doing small projects outside of my regular work.
 
 ### Some Info About Me
 - I love building computers, I've built nine so far!
@@ -9,28 +9,27 @@ I'm Joey, a UC Irvine Alum and Hardware Engineer. I'm always learning and I love
 
 ### Where I've Been
 - Ayar Labs
-  - System Hardware Engineer | March 2026 - Present (5 months)
+  - System Hardware Engineer | March 2026 - Present
 - Cisco Systems
-  - Hardware Engineer | June 2024 - March 2026 (1 year, 10 months)
-  - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024 (1 year, 3 months)
+  - Hardware Engineer | June 2024 - March 2026
+  - Hardware Engineer Intern | June 2022 - September 2022, June 2023 - June 2024
 
 ### Hardware
 - Silicon Photonics
   - Co-Packaged Optics (CPO)
-  - Mixed Signal ICs
-- VLSI Layout
-  - Cadence - advanced CMOS circuits
-- RTL Design
-  - Verilog/SystemVerilog - hardware controllers, design verification
+  - Optical Control Systems
+- Analog and Mixed-Signal Design
+  - Cadence - design, layout, and optimization of advanced CMOS circuits
+  - VerilogA/SystemVerilog - analog and photonic models
+- Digital Design
+  - Verilog/SystemVerilog - hardware controllers, design verification, cycle-accurate firmware testbenches
 - Silicon Bring-Up
-  - DVT/Production - high-speed optical transcievers
+  - DVT/Production Line - high-speed optical transceivers and optical engines
+- Bare-Metal Firmware Design
+  - PHY-level firmware (concept to production)
 - Processor Architecture
   - Scalar, pipelined RISC-V and MIPS32 microarchitectures
   - Vector accelerator, RISC-V ISA compliant
-- Bare-Metal Programming
-  - TI MCUs - chipset firmware
-  - ST MCUs - product-level and chipset firmware
-  - Arduino/ESP32 MCUs - low-cost lab tools
 
 ### Software
 - C/C++ - GUIs, threaded applications, embedded firmware

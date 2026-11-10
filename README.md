@@ -1,6 +1,6 @@
 <h1 style="margin: auto; text-align: center;"> Hello! </h1>
 
-I'm Joey, Hardware Engineer and UC Irvine slum. I'm always learning and I love doing small projects outside of my regular work.
+I'm Joey, Hardware Engineer and UC Irvine alum. I'm always learning and I love doing small projects outside of my regular work.
 
 ### Some Info About Me
 - I love building computers, I've built nine so far!
